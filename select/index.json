@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "裏切りの夕焼け",
+  "base_artist": "シアターブルック",
+  "createdAt": "2025-12-23T21:46:50.945815Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "裏切りの夕焼け",
+      "artist": "Theatre Brook",
+      "has_synced": true,
+      "path": "select/01_裏切りの夕焼け_Theatre_Brook.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "裏切りの夕焼け -Karaoke Mix-",
+      "artist": "Theatre Brook",
+      "has_synced": false,
+      "path": "select/02_裏切りの夕焼け_-Karaoke_Mix-_Theatre_Brook.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "裏切りの夕焼け",
+      "artist": "THEATRE BROOK",
+      "has_synced": true,
+      "path": "select/03_裏切りの夕焼け_THEATRE_BROOK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Uragiri no Yuuyake (裏切りの夕焼け)",
+      "artist": "THEATRE BROOK",
+      "has_synced": true,
+      "path": "select/04_Uragiri_no_Yuuyake_(裏切りの夕焼け)_THEATRE_BROOK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "裏切りの夕焼け",
+      "artist": "シアターブルック",
+      "has_synced": false,
+      "path": "select/pl_01_裏切りの夕焼け_シアターブルック.txt"
+    }
+  ]
+}
